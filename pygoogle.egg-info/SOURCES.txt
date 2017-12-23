@@ -1,0 +1,10 @@
+setup.py
+pygoogle/__init__.py
+pygoogle/__main__.py
+pygoogle/cli.py
+pygoogle/core.py
+pygoogle.egg-info/PKG-INFO
+pygoogle.egg-info/SOURCES.txt
+pygoogle.egg-info/dependency_links.txt
+pygoogle.egg-info/entry_points.txt
+pygoogle.egg-info/top_level.txt

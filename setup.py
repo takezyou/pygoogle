@@ -1,9 +1,8 @@
-
 #!/usr/bin/env python
 # coding: utf-8
 
 from setuptools import setup
-from _check import __author__, __version__
+from pygoogle import __author__, __version__
 
 setup(
     name="pygoogle",

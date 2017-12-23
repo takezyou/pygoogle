@@ -1,0 +1,3 @@
+[console_scripts]
+pygoogle = pygoogle.__main__:main
+
