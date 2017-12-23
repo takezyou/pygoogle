@@ -9,7 +9,7 @@ setup(
     name="pygoogle",
     author=__author__,
     version=__version__,
-    packages=["cmd/pygoogle"],
+    packages=["pygoogle"],
     entry_points={
         "console_scripts": [
             "pygoogle=pygoogle.__main__:main"
